@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "76409213736",
+    "firebase_url": "https://integratedlogin-80105.firebaseio.com",
+    "project_id": "integratedlogin-80105",
+    "storage_bucket": "integratedlogin-80105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76409213736:android:196b02dd43c06e47cc761d",
+        "android_client_info": {
+          "package_name": "com.example.integrated_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76409213736-ul2pa6lrp59pnavk7f6asr645ssrcjf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.integrated_login",
+            "certificate_hash": "a126c45dc890e9d0e2d7c1fc470683c561e104bf"
+          }
+        },
+        {
+          "client_id": "76409213736-gsjn352gq6aid9o7sndj9e6kv8arji61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM3DAuDNhReQ2_8SRsysl2DE6PIimi4JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76409213736-gsjn352gq6aid9o7sndj9e6kv8arji61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
